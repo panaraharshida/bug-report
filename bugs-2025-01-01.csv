@@ -1,0 +1,29 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+4,minor,Low,Windows,deepa@gmail.com,ASSIGNED,---,check the close button by clicking any other place
+26,minor,Low,Windows,deepa@gmail.com,ASSIGNED,---,check login button with any  special charecters except (@$_) in  password
+18,minor,Low,Windows,harshida@gmail.com,ASSIGNED,---,check login button with only alphabets in  username
+23,minor,Low,Windows,harshida@gmail.com,ASSIGNED,---,check login button with only special characters  in  password
+14,minor,Low,Windows,pritesh@gmail.com,ASSIGNED,---,check login button with password  is correct but username is incorrect
+9,minor,Low,Windows,vandita@gmail.com,ASSIGNED,---,check username and password with wrong value
+28,minor,Low,Windows,yash@gmail.com,ASSIGNED,---,check login button with all capital lattes only password
+7,normal,High,Windows,pritesh@gmail.com,RESOLVED,FIXED,check the reset app button
+16,minor,Low,Windows,deepa@gmail.com,RESOLVED,FIXED,check login button with only  digital in  username
+24,minor,Low,Windows,deepa@gmail.com,RESOLVED,FIXED,check login button with only alphabets in  username
+27,minor,Low,Windows,harshida@gmail.com,RESOLVED,FIXED,check login button with all capital lattes only username
+25,minor,Low,Windows,pritesh@gmail.com,RESOLVED,FIXED,check login button with maximum numbers of charecters  in  username
+8,minor,Low,Windows,vandita@gmail.com,RESOLVED,FIXED,check username and password with blank
+12,minor,Low,Windows,vandita@gmail.com,RESOLVED,FIXED,check login button with username is correct but password is incorrect
+6,critical,Highest,Windows,vandita@gmail.com,VERIFIED,FIXED,check login button by using different possibilities
+3,critical,High,Windows,harshida@gmail.com,VERIFIED,FIXED,check finish button its show payment message without order
+17,minor,Low,Windows,deepa@gmail.com,VERIFIED,FIXED,check login button with only special characters  in  username
+15,minor,Low,Windows,pritesh@gmail.com,VERIFIED,FIXED,check login button with white spaec between in  only username
+11,minor,Low,Windows,vandita@gmail.com,VERIFIED,FIXED,check login button with password is correct but blank username
+13,minor,Low,Windows,vandita@gmail.com,VERIFIED,FIXED,check login button with username is correct but password is incorrect
+1,minor,Low,Windows,yash@gmail.com,VERIFIED,FIXED,check add to cart menu by click on that change the position
+21,minor,Low,Windows,yash@gmail.com,VERIFIED,FIXED,check login button with white spaec between in  only password
+22,minor,Low,Windows,yash@gmail.com,VERIFIED,FIXED,check login button with only  digita in password
+2,critical,High,Windows,nirali@gmail.com,CLOSED,FIXED,check all item menu not show any change
+5,minor,Low,Windows,harshida@gmail.com,CLOSED,FIXED,check the filter button
+19,minor,Low,Windows,harshida@gmail.com,CLOSED,FIXED,check login button with maximum numbers of charecters  in  username
+20,minor,Low,Windows,harshida@gmail.com,CLOSED,FIXED,check login button with any special  charecters except (@$_) in  username
+10,minor,Low,Windows,vandita@gmail.com,CLOSED,FIXED,check login button with username is correct but blank password
